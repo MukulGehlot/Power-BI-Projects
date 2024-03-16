@@ -1,7 +1,5 @@
 # Maven Airline Passenger Satisfaction Analysis 🛫📊
 
-[Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiNTAxNTRhNDctMGVjYy00ZDcxLTkyMTAtOGNlOWNjNDg1MzdlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection)
-
 Created a dashboard on Power BI to analyze maven airlines passenger's satisfaction ratings. The satisfaction rating was 43.45%. The average ratings of the parameters were analyzed and it was found that: inflight Wi-Fi service, ease of booking and gate location had the worst ratings. Also, the dissatisfaction rate of the first-time passengers from economy class was higher. Based on the insights key recommendations and data-driven strategy was given for increasing Maven Airlines' satisfaction rate.
 
 ### About the dataset
@@ -16,6 +14,6 @@ For Maven Airlines Challenge, you'll be assuming the role of Senior Data Analyst
 To recommend a data-driven strategy for increasing Maven Airlines' satisfaction rate, and present it in the form of a single page report or dashboard.
 
 ### Power BI Dashboard
-![image](https://user-images.githubusercontent.com/75059347/171550962-0024d989-14ab-42c7-b222-2fdd3b4f1448.png)
+![image](https://i.imgur.com/ruguRy5.jpeg)
 
 ### [Challenge Link](https://www.mavenanalytics.io/blog/maven-airlines-challenge)
