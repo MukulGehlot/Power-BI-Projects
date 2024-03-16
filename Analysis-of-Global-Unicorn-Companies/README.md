@@ -1,7 +1,5 @@
 # Analysis of Global Unicorn Companies 🦄📊
 
-[Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiMWU2MWFiNmMtODcyNC00YzdkLWI1YTItMzhlMzQ5ZTljMzEwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionb64cec8d47f383a23cd7)
-
 A unicorn company is a private company with a valuation of more than $1 billion, and today there are over 1,000 unicorn companies around the world!
 
 * This [dataset](https://www.mavenanalytics.io/blog/maven-unicorn-challenge) contains a csv table with 1,074 records, one for each company
@@ -30,4 +28,4 @@ Created a dashboard on Power BI to analyse the current landscape of unicorn comp
 
 ### Power BI Dashboard 
 
-![image](https://user-images.githubusercontent.com/75059347/171550445-cf17a05f-34e6-4db3-8249-9d571b824765.png)
+![image](https://i.imgur.com/tqR26mE.jpeg)
