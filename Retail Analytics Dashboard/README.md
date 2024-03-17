@@ -1,8 +1,6 @@
 
 ## Retail Analytics for an Online Retail Store 🛒📊
 
-[Power BI Link](https://app.powerbi.com/view?r=eyJrIjoiZjkxZTk3MjUtYjRkNC00YTBlLWJiNzYtM2I2YzhhMWU4OWMyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
-
 ### Overview
 * Created a retail analytics dashboard to analyse the revenue trend and sales trends of an online retail store.
 * The aim was to analyse the major contributing factors that led to revenue and sales growth, so the leadership team could strategically plan for next year.
@@ -30,3 +28,10 @@ Revenue = 'Online Retail'[Quantity]*'Online Retail'[UnitPrice]
 ### Data Visualization
 
 Based on the data, visualizations were created to represent the key insights in the form of clustered bar charts, clustered column charts, line charts, and maps.
+
+### Revenue Analysis
+
+![Revenue Analysis](https://i.imgur.com/QQ5HI8X.jpeg)
+
+### Sales Analysis
+![Sales Analysis](https://i.imgur.com/gzRKe9b.jpeg)
